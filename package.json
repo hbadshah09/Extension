@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "uuid": "^9.0.1"
+  },
+  "name": "extensionx",
+  "version": "1.0.0",
+  "description": "borwser extensionx",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hbadshah09/Extension.git"
+  },
+  "keywords": [
+    "\"extensionx\""
+  ],
+  "author": "\"Badshah\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbadshah09/Extension/issues"
+  },
+  "homepage": "https://github.com/hbadshah09/Extension#readme"
+}
